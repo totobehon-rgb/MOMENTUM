@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/momentum_fixed.html" }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
